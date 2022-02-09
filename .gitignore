@@ -1,2 +1,5 @@
 # tensorboard log
 /code/*log
+
+# dataset
+/dataset/cifar*
