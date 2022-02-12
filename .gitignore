@@ -1,5 +1,9 @@
 # tensorboard log
-/code/*log
+/code/*log*
 
 # dataset
 /dataset/cifar*
+
+# pth
+/Pytorch_tudui/code/vgg16_method1.pth
+/Pytorch_tudui/code/vgg16_method2.pth
